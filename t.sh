@@ -1,2 +1,2 @@
 echo "WORKING"
-rm -rf /sdcard/xxxx
+touch /sdcard/STO
